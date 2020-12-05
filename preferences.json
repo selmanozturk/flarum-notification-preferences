@@ -1,0 +1,42 @@
+{
+    "alert": {
+        "discussionRenamed":true,
+        "byobuPrivateDiscussionCreated":true,
+        "byobuPrivateDiscussionReplied":true,
+        "byobuRecipientRemoved":true,
+        "byobuPrivateDiscussionAdded":true,
+        "byobuMadePublic":true,
+        "postLiked":true,
+        "discussionLocked":true,
+        "postMentioned":true,
+        "userMentioned":true,
+        "newPost":true,
+        "newDiscussionInTag":true,
+        "newPostInTag":true,
+        "newDiscussionTag":true,
+        "userSuspended":true,
+        "userUnsuspended":true,
+        "warning":true
+    },
+    "email": {
+        "discussionRenamed":false,
+        "byobuPrivateDiscussionCreated":false,
+        "byobuPrivateDiscussionReplied":false,
+        "byobuRecipientRemoved":false,
+        "byobuPrivateDiscussionAdded":false,
+        "byobuMadePublic":false,
+        "postLiked":false,
+        "discussionLocked":false,
+        "postMentioned":false,
+        "userMentioned":false,
+        "newPost":false,
+        "newDiscussionInTag":false,
+        "newPostInTag":false,
+        "newDiscussionTag":false,
+        "userSuspended":false,
+        "userUnsuspended":false,
+        "warning":false
+    },
+    "custom": {
+    }
+}

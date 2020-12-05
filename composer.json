@@ -1,0 +1,43 @@
+{
+  "name": "selmanozturk/flarum-notification-preferences",
+  "description": "Enables/Disables user preferences for alerts, emails and etc. after a `new user registration` and after any `login` attemp.",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "selmanozturk/flarum-notification-preferences",
+        "version": "0.0.1",
+        "source": {
+          "url": "https://github.com/selmanozturk/flarum-notification-preferences",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    }
+  ],
+  "require": {
+    "flarum/core": "^0.1.0-beta.8",
+    "selmanozturk/flarum-notification-preferences": "0.0.*"
+  },
+  "authors": [
+    {
+      "name": "Selman Ozturk",
+      "role": "Developer (Original)"
+    }
+  ],
+  "extra": {
+    "flarum-extension": {
+      "title": "Flarum Notification Preferences",
+      "icon": {
+        "name": "fas fa-reply-all",
+        "backgroundColor": "#e74c3c",
+        "color": "#fff"
+      }
+    }
+  }
+}
